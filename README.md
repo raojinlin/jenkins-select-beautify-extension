@@ -1,10 +1,13 @@
 # Jenkins选项参数组件美化插件
 Jenkins选项参数组件美化插件。优化Jenkins选项参数的样式和搜索。
 
+
 jenkins原有的选项参数。
+
 ![](./screenshot/select_styles.png)
 
 美化后的样式。
+
 ![](./screenshot/select_beautify_styles.png)
 ![](./screenshot/multiple_select.png)
 
