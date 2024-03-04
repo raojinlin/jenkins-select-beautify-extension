@@ -1,0 +1,9 @@
+node_modules
+
+extension/js/*.js
+extension/js/*.js.map
+extension/manifest.json
+.vscode
+
+src/manifest.json
+.env
