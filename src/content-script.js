@@ -72,6 +72,7 @@ function ReplaceElement({ element }) {
       style={{minWidth: 200, width: 'auto'}} 
       mode={element.multiple ? 'multiple' : ''} 
       showSearch
+      allowClear
     >
       {values.map(opt => 
         <Select.Option key={opt.value} value={opt.value}>{opt.value}</Select.Option>
