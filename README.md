@@ -40,7 +40,7 @@ HOST_PERMISSIONS=https://jenkins.example.net/*,https://jenkins2.example.net/*
 
 ## 安装
 
-1. 下载插件文件（.zip 文件）。
+1. 下载插件文件[Releases](https://github.com/raojinlin/jenkins-select-beautify-extension/releases)（.zip 文件）。
 2. 解压zip文件，修改```manifest.json```。配置```host_permissions```和```content_scripts[0].matches```，填入jenkins域名，如：```https://jenkins.example.com/*```
 ![](./screenshot/manifest.png)
 2. 打开 Chrome 浏览器。
